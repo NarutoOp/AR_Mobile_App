@@ -1,2 +1,3 @@
 # AR_Mobile_App
- First AR mobile appp
+ AR app which show 3d models for target pictures .
+# Made By - Sakshat Shinde and me Arpit Gupta
